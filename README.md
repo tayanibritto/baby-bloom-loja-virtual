@@ -1,6 +1,6 @@
 Título: Baby Bloom - Loja Virtual
 
-Descrição: Aplicação em React que simula a página principal de uma loja virtual especializada em artigos para bebês. O protótipo já possui um carrinho de compras funcional. O usuário consegue adicionar e remover produtos, além de aumentar ou diminuir quantidade, e o código calcula automaticamente o valor de acordo com a variação dos itens. A folha de estilos utilizada foi a Emition/Styled.
+Descrição: Aplicação em React que simula a página principal de uma loja virtual especializada em artigos para bebês. O protótipo já possui um carrinho de compras funcional. O usuário consegue adicionar e remover produtos, além de aumentar ou diminuir quantidade, e o código calcula automaticamente o valor de acordo com a variação dos itens. A folha de estilos utilizada foi a Emotion/Styled.
 
 Tecnologias utilizadas: React.js · JSX (JavaScript eXtension) · Node.js · Emotion/Styled
 
